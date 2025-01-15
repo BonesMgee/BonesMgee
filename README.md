@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BonesMgee
+- 👋 Hi, I’m Jake Hale
 - 👀 I’m interested in pretty much all tech
 - 🌱 I’m currently learning: C#, C++, Java, HTML, Blzor
 - 📫 How to reach me: Email: Jakedouglashale@gmail.com, Discord: BonesMgee
