@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BonesMgee
 - 👀 I’m interested in pretty much all tech
 - 🌱 I’m currently learning: C#, C++, Java, HTML, Blzor
-- 📫 How to reach me: Email: BonesMgeeUk@gmail.com, Discord: BonesMgee
+- 📫 How to reach me: Email: Jakedouglashale@gmail.com, Discord: BonesMgee
 
 <!---
 BonesMgee/BonesMgee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
